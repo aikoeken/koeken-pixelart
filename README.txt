@@ -18,3 +18,8 @@
 - https://github.com/aseprite/aseprite
 - https://www.aseprite.org/download/
 - https://store.steampowered.com/app/431730/Aseprite/?l=japanese
+
+
+# gguf ミラーリンク
+https://huggingface.co/Sanami/flux1-dev-gguf
+GGUFでFLUXを使うのに必要なファイルはこちらにまとめて掲載
