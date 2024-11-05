@@ -30,3 +30,6 @@ https://huggingface.co/Sanami/flux1-dev-gguf
 ## LoRA
 https://civitai.com/search/models?baseModel=Flux.1%20D&sortBy=models_v9&query=pixel%20art
 CivitaiではさまざまなLoRAを検索することができます
+
+## 紙版購入者用　電子版
+https://github.com/aikoeken/koeken-pixelart/releases/tag/v1.0.0
